@@ -1,2 +1,2 @@
 print("coonfig.py")
-print("Version3")
+print("Version12")
